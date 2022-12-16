@@ -1,0 +1,384 @@
+*{
+    border: 0 none;
+  font-size: 100%;
+  margin: 0;
+  outline: 0 none;
+  padding: 0;
+  vertical-align: baseline;
+	/* font-size: 16px; */
+	line-height: 25px;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif; 
+	font-weight: 500;
+	color: #555; 
+	background-color: #fff;
+	-webkit-font-smoothing: antialiased !important;
+	-webkit-text-size-adjust: 100% !important;
+}
+
+.fes1-main-title-cont{
+	margin:30px 0 40px 0;
+}  
+.title-fs-60 {
+	margin-top: 70px;
+	color:#4b4e53;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
+	font-size: 70px;
+	line-height: 60px;
+	font-weight: 900; 
+}
+.bold{
+    color:#4b4e53;
+    font-weight: bold;
+    font-size: 20px;
+	/* line-height: 60px; */
+	font-weight: 300; 
+}
+.line-3-100{
+	margin-top:15px;
+	height:3px;
+	width:100px;
+	background:#4b4e53;
+}
+.fes1-box{
+    position: relative;
+    padding-left: 55px;
+    padding-bottom: 10px;
+}
+.fes1-box-icon {
+    position: absolute;	
+	font-family: 'Glyphicons Halflings';	
+    top: 0;
+    left: 0;
+    color: #4b4e53;
+    font-size: 35px;
+}
+.fes1-box-icon i{
+	font-size: 40px;
+}
+.fes1-box-icon img{
+	font-size: 40px;
+}
+
+/* .fes1-box h3 {
+    color: #4b4e53;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+} */
+.page-section{
+	width: 100%;
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+.fes2-main-text{
+    padding: 70px 30px 70px 30px;
+}
+.fes2-main-text {
+    margin: 0 auto;
+    padding: 145px 50px 49px 50px;
+    max-width: 500px;
+}
+.title-fs-45 {
+    font-size: 30px;
+    line-height: 30px;
+}
+.title-fs-45 {
+    color: #4b4e53;
+    font-family: 'Lato',Arial,Helvetica,sans-serif;
+    font-size: 45px;
+    line-height: 45px;
+    font-weight: 300;
+}
+.bold {
+    font-weight: bold;
+}
+.line-3-70 {
+    margin-top: 11px;
+    height: 3px;
+    width: 70px;
+    background: #4b4e53;
+}
+.fes2-text-cont {
+    margin-top: 30px;
+}
+.col-md-4 {
+    width: 33.33%;
+}
+
+ .fes4-box {
+    margin-bottom: 20px;
+} 
+
+.fes4-cont{
+    padding-top: 130px;
+    padding-bottom: 80px;
+}
+.section-title {
+    margin: 0;
+    padding: 22px 25px 24px 25px;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 25px;
+    color: #4b4e53;
+    border-left: #4b4e53 2px solid;
+}
+
+.fes4-title-count {
+    float: left;
+    
+     position: relative; 
+    padding-left: 70px;
+    padding-bottom: 15px;
+} 
+ .fes4-box-icon {
+    position: absolute;
+     top: 14px; 
+    left: 0;
+    color: #4b4e53;
+    font-size: 45px;
+} 
+
+ .mt-5 {
+    margin-top: 5px !important;
+}  
+ 
+/* .port-img-overlay:hover{
+object-fit: contain;
+   
+    background: blue;
+} */
+
+ /* .port-overlay-cont {
+    padding: 50px;
+    padding-top: 20px;
+}
+.port-overlay-cont {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    z-index: 2;
+    transition: all .3s cubic-bezier(0.300, 0.100, 0.580, 1.000);
+} 
+
+ .port-title-cont {
+    margin-bottom: 0px;
+    transition: all .4s cubic-bezier(0.300, 0.100, 0.580, 1.000);
+}
+
+.port-title-cont h3 {
+    margin: 0;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+}
+
+.port-title-cont span a {
+    color: #bebebe;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+a {
+    color: #4b4e53;
+    outline: none !important;
+    text-decoration: none;
+    transition: all .3s ease 0s;
+}
+.hvr-rectangle-out {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    position: relative;
+    background: #e1e1e1;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+  */      
+  .toprow{
+    margin-top: 120px;
+  }  
+  .fes4-box p{
+    margin-left: 70px;
+  }  
+  .port-img-overlay{
+    position: relative;
+    overflow: hidden;
+  }
+  .photo{
+    width: 100%;
+    display: block;
+    overflow: hidden;
+  }
+  .port-img-overlay:hover{
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(54, 42, 42, 0);
+    background: #9d0909;
+    
+    -webkit-transition-duration: 0.3s;
+    transition-duration: all 0.3s;
+    opacity: 0.5;
+    
+  }
+  .port-overlay-cont{
+    /* display: none; */
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+  }
+  .product{
+    border: 1px solid gray;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(89, 208, 208);
+  }
+  .flex{
+    display: flex;
+  }
+  .middle{
+    font-weight: bold;
+  }
+.image-title h3 {
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+.image-cont p{
+    text-align: justify;
+}
+.first h5{
+    font-size: 15px;
+    font-weight: 600;
+    color: #4b4e53;
+    line-height: 25px;
+}
+.first p{
+    font-size: 15px;
+    font-weight: 600;
+    color: #4b4e53;
+    line-height: 25px;
+}
+.text-reset i:hover{
+    transition: all 0.3s;
+    color: gainsboro;
+}
+.message p{
+    font-size: 20px;
+    line-height: 25px;
+}
+.title h3{
+    font-weight: bold;
+    color: #4b4e53;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+h3{
+    line-height: 33px;
+    margin: 26px 0 16px 0;
+    letter-spacing: normal;
+}
+.image1{
+    overflow: hidden;
+    /* position: absolute; */
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    top: 0;
+}
+.farmhead{
+    margin-top: 50px;
+}
+/* .farmhead1{
+    background-color: red;
+} */
+.heading h1{
+    font-size: 27px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.fes4-box1-icon{
+    position: absolute;
+    top: 14px;
+    left: 0;
+    color: #4b4e53;
+    font-size: 33px;
+}
+.fes4-title-count1 h2{
+    font-weight: bold;
+}
+.name h3{
+    font-size: 17px;
+    text-align: center;
+}
+.title1 h4{
+    font-size: 17px;
+    text-align: center;
+}
+.socialmedia{
+    font-size: 27px;
+    text-align: center;
+}
+.socialmedia i:hover{
+    color: rgb(13, 13, 175);
+}
+.share{
+    display: flex;                             
+    justify-content:space-between;    
+}
+.read p{
+    font-weight: bold;
+}
+.read p:hover{
+    color:#eee;
+    transition: all 0.3s;
+}
+.icon-image i{
+    font-size: 40px;
+}
+.icon-image{
+    margin-top: 40px;
+    float: left;
+}
+.icon-image i:hover{
+    color: #eee                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;
+}
+.section-title1 {
+    margin: 0;
+    padding: 140px 5px 74px 27px;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 25px;
+    color: #4b4e53;
+    border-left: #4b4e53 2px solid;
+}
+.section-title2 {
+    margin: 0;
+    padding: 200px 5px 74px 27px;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 25px;
+    color: #4b4e53;
+    border-left: #4b4e53 2px solid;
+}
+.mango{
+    background-color: #eee;
+}
